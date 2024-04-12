@@ -1,0 +1,2 @@
+name(Zamokuhle)
+print=name
